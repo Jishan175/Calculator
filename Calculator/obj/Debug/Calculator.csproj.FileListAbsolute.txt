@@ -1,0 +1,28 @@
+c:\users\jishan\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe.config
+c:\users\jishan\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.exe
+c:\users\jishan\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\jishan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+c:\users\jishan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+c:\users\jishan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+c:\users\jishan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+c:\users\jishan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.exe
+c:\users\jishan\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Jishan\Desktop\Assignment\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Jishan\Desktop\Assignment\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Jishan\Desktop\Assignment\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Jishan\Desktop\Assignment\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Jishan\Desktop\Assignment\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Jishan\Desktop\Assignment\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Jishan\Desktop\Assignment\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Jishan\Desktop\Assignment\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Jishan\Desktop\Assignment\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Jishan\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Jishan\Desktop\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Jishan\Desktop\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Jishan\Desktop\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Jishan\Desktop\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Jishan\Desktop\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Jishan\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Jishan\Desktop\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jishan\Desktop\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Jishan\Desktop\Calculator\Calculator\obj\Debug\Calculator.pdb
